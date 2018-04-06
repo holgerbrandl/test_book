@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a6eda91-9b3c-47b1-ade5-517b6018404c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="34">
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/book.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/projects/jb/intellij-plugins/markdown" value="1486021454000" />
+        <entry key="$USER_HOME$/projects/kotlin/big" value="1455133220000" />
+        <entry key="$USER_HOME$/projects/kotlin/kotlin_playground" value="1482224211000" />
+        <entry key="$USER_HOME$/projects/kotlin/misc/html5-desktop-app" value="2966865034000" />
+        <entry key="$USER_HOME$/projects/misc/kotlintest" value="1464432961000" />
+        <entry key="$USER_HOME$/projects/rplugin/BashSupport" value="1484234852000" />
+        <entry key="$USER_HOME$/projects/rplugin/r4j_gradle_version" value="1487262338000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__ReduceOrfs.kts_1521211942520" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__beaker_example.kts_1521102616090" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__beaker_example.kts_1521102883780" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__beaker_example.kts_1521102925950" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__benchmark_kscript.kts_1516952955726" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__benchmark_kscript.kts_1516953053359" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__benchmark_kscript.kts_1516956196654" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__depends_on_annot.kts_1519914079523" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519852670007" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519853008681" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519855338126" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519855468007" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519894031772" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519914675227" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__include_variations.kts_1519915016179" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mq_cleaner.kts_1522072813696" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mq_cleaner.kts_1522072901377" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mq_cleaner.kts_1522072953609" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mq_cleaner.kts_1522156035990" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mq_cleaner.kts_1522216962824" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mq_cleaner.kts_1522218425692" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__multi_line_deps.kts_1515396503028" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__multi_line_deps.kts_1518168266688" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519853198187" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519855137534" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519855623397" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519858173509" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519858640660" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519992119590" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519992483811" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519992627862" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__mydsl_test_with_deps.kts_1519992740288" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__package_example.8fc727321204c802.jar_1518180095214" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__package_example.8fc727321204c802.jar_1518180577498" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__read_length.kts_1520588452265" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__read_length.kts_1520588570924" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scratch_41.kts_1520341167575" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scratch_41.kts_1520341315698" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.03681e3ccc77f2d4.kts_1521203972020" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.03681e3ccc77f2d4.kts_1521204011048" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.1243baeffeb2fee7.kts_1521538303523" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.2dfd3d423c0ae11f.kts_1519913181086" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.53613c5006bd92c8.kts_1519850903165" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.53613c5006bd92c8.kts_1519850935331" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.6c89f2d9f9058906.jar_1518169795813" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.6c89f2d9f9058906.jar_1518170693101" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.6c89f2d9f9058906.jar_1518170845876" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.6c89f2d9f9058906.jar_1518171325691" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.6c89f2d9f9058906.jar_1518172227818" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.75671ee1c5fda981.kts_1519913028312" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.7df5cc0fb35fbd92.kts_1522072594843" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.9adf466033424217.kts_1519913355967" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.9adf466033424217.kts_1519914317476" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.b71071932b965993.kts_1522912606841" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.d5bf2504c607efc6.kts_1519986291982" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.d94a927bc3cfe8ea.kts_1519986240724" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.f8713fbf2e119e4c.kts_1519858937688" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.f8713fbf2e119e4c.kts_1519888272181" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.f8713fbf2e119e4c.kts_1519896627442" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.f8713fbf2e119e4c.kts_1519912462284" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.f8713fbf2e119e4c.kts_1519913443310" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__scriptlet.f8713fbf2e119e4c.kts_1519913513793" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__star_align.kts_1517317618377" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__test.kts_1515074578915" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__test.kts_1515074719201" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__test.kts_1520238627566" value="PREVIEW" />
+        <entry key="$USER_HOME$/.kscript/kscript_tmp_project__test.kts_1520238762570" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../gradle-capsule-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dropbox/kotlin_night_frankfurt" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/krangl/examples/beakerx" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/krangl/examples/kotlin_night" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/krangl/examples/kotlin_statistics" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/krangl/examples/playground" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/kscript-support-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/misc/kotlin-statistics" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kotlin/mq_cleaner" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/book.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybook" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MarkdownNavigator.Settings.Preview" />
+  </component>
+  <component name="PsiViewer.ProjectComponent">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../kotlist" value="1455463249000" />
+        <entry key="$USER_HOME$/Dropbox/cluster_sync/planaria_tx" value="1457648675000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/projects/bioinfo/rink_tx_assembly" value="PREVIEW" />
+        <entry key="/Volumes/furiosa/plantx/misc/brandl/rink_tx_assembly" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="993" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="IDEtalk" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="PsiViewer" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="bottom" id="IDEtalk Messages" />
+      <window_info id="Learn" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="MarkdownNavigator.LinkMap.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
